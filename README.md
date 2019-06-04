@@ -50,10 +50,7 @@ Please see the ```docker``` branch
 ## Node.js backend
 A Node.js implementation is available in the ```node``` branch, maintained by [dunklesToast](https://github.com/dunklesToast).
 
-## Donate
-[![Donate with Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/fdossena/donate)  
-[Donate with PayPal](https://www.paypal.me/sineisochronic)  
-Send ETH at this address: ```0x8A5273d4e2618c4cff2C62d8EB731701FceEd8E3```
+
 
 ## License
 Copyright (C) 2016-2019 Federico Dossena
